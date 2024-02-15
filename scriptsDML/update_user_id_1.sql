@@ -1,2 +1,2 @@
 SET SERVEROUTPUT ON;
-UPDATE FO.users2 SET nombre = 'Joseeeee' WHERE id = 2;
+UPDATE FO.users2 SET apellido = 'Joseeeee' WHERE nombre = 'Jose';
